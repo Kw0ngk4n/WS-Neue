@@ -2,7 +2,7 @@
 
 ![Preview](img/Neue_template.png)
 
-This is a font set for Caddx/Walksnail [Avatar Digital VTX System](https://caddxfpv.com/collections/walksnail-avatar-system).
+This is a font set for Caddx/Walksnail [Avatar Digital VTX System](https://caddxfpv.com/collections/walksnail-avatar-system)
 Literally converted from [WTF-Neue-OSD](https://github.com/Kw0ngk4n/WTF-Neue-OSD)
 Original Typeface based on [The Neue Black](https://www.theleagueofmoveabletype.com/the-neue-black), hence the name.  
 Icons mostly based on [Google Material Symbols](https://fonts.google.com/icons).  
