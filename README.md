@@ -1,6 +1,6 @@
 # Neue OSD Font
 
-![Preview](img/Neue_template.png)  
+![Preview](img/Preview_V011.png)  
 (This preview pic is "wrong", the cursor is now 3 glyphs wide.)
 
 This is a font set for Caddx/Walksnail [Avatar Digital VTX System](https://caddxfpv.com/collections/walksnail-avatar-system).  
