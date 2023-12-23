@@ -15,9 +15,11 @@ Sneaky FPV (https://sites.google.com/view/sneaky-fpv/home)
 
 
 ## Installation
-1. Unzip and put the **font_update.ini and PNG** files into the root of your goggle's SD card.  
-2. Perform a **Font Update** in your goggles menu.  
-3. Send it!  
+~~1. Unzip and put the **font_update.ini and PNG** files into the root of your goggle's SD card.
+2. Perform a **Font Update** in your goggles menu.~~
+1. Follow whatever file structure suitable for the firmware you use. (35.xx.xx and after)
+2. ???
+3. Send it!
 
 ### Notes:
 If you have previously installed other font(s) you may need to edit the **font_update.ini** to accommodate new font(s).  
