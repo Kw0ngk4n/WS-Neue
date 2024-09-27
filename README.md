@@ -8,7 +8,7 @@ Original Typeface based on [The Neue Black](https://www.theleagueofmoveabletype.
 Icons mostly based on [Google Material Symbols](https://fonts.google.com/icons).  
 Only Betaflight is supported.  
 
-Partially referenced on other OSD font sets:  
+Partially referenced other OSD font sets:  
 KNIFA (https://github.com/Knifa/material-osd/releases)  
 VICEWIZE (https://github.com/vicewize/vicewizeosdfontset)  
 Sneaky FPV (https://sites.google.com/view/sneaky-fpv/home)
